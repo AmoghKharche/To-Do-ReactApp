@@ -1,0 +1,12 @@
+*{
+  font-size: 35px;
+}
+
+.nav{
+  background-color: black;
+}
+.nav a{
+  color: whitesmoke;
+  text-decoration: none;
+  margin: 20px;
+}
